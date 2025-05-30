@@ -1,0 +1,67 @@
+<body>
+<section class="hero">
+    <div class="hero-content">
+      <h1><b>WELCOME TO MY PORTFOLIO</b></h1>
+      <img src="https://i.postimg.cc/XJ8YY9WT/photo.jpg" alt="My Photo"> 
+    </div>
+  </section>
+  <section class="about">
+  <div class="container">
+    <div class="text">
+      <h1>About Me</h1>
+      <p>
+        <i>MY NAME IS VARSHITHA. I AM CURRENTLY PURSUING 1st YEAR B.TECH IN SRKR ENGINEERING COLLEGE. <br>
+        I AM FULLY INTERESTED IN WEB DEVELOPMENT AND HAVE STRONG PROBLEM-SOLVING SKILLS. <br>
+        I ENJOY BUILDING CREATIVE PROJECTS AND CONTINUOUSLY LEARNING NEW TECHNOLOGIES TO STAY AHEAD IN THE TECH WORLD.</i>
+      </p>
+    </div>
+    <div class="photo">
+      <img src="https://i.postimg.cc/XJ8YY9WT/photo.jpg" alt="Varshitha's Photo">
+    </div>
+  </div>
+  </section>
+  <h1>MY EDUCATION</h1>
+
+  <div class="education-container">
+    <div class="edu-card">
+      <img src="https://tse1.mm.bing.net/th?id=OIP.0DWOgdBqQXL9-CPkvVwFPgHaDB&pid=Api&rs=1&c=1&qlt=95&w=245&h=99" alt="School Image">
+      <p><em>AP RESIDENTIAL SCHOOL KAVUR; SECURED 486 MARKS</em></p>
+    </div>
+
+    <div class="edu-card">
+      <img src="https://tse1.mm.bing.net/th?id=OIP.ya0RYgcttmBq8CwUTsSTeQHaE9&pid=Api&rs=1&c=1&qlt=95&w=181&h=121" alt="College Image">
+      <p><em>NRI VIDYA JUNIOR COLLEGE; SECURED 940 MARKS</em></p>
+    </div>
+
+    <div class="edu-card">
+      <img src="https://tse1.mm.bing.net/th?id=OIP.EvphLkB-zuHa4kJGnM8ycQHaEc&pid=Api&rs=1&c=1&qlt=95&w=203&h=121" alt="Engineering College Image">
+      <p><em>SRKR ENGINEERING COLLEGE; SECURED 8.97 SGPA</em></p>
+    </div>
+  </div>
+<h1>MY ACHIEVEMENTS</h1>
+
+  <div class="certificates-container">
+    <div class="certificate-box">
+       <img src="https://i.postimg.cc/WpBBxRjf/certificate.jpg" alt="cisco cerificate">
+    </div>
+    <div class="certificate-box">
+      <img src="https://i.postimg.cc/ry98GF5N/statement.jpg" alt="statement of achievement">      
+    </div>
+    <div class="certificate-box">
+      <img src="https://i.postimg.cc/D0HqZdf7/quiz.jpg" alt="quiz participation">
+  </div>
+  </div>
+  <h2>Contact Me</h2>
+
+  <div class="contact-box">
+    <p><b>Email: </b><a href="tirirveedhivarshitha@gmail.com">tiriveedhivarshitha@gmail.com</a></p>
+    <p><b>Phone: </b>+91 7330623424</p>
+    <p><b>GitHub: </b><a href="https://github.com/tiriveedhivarshitha">For GitHub</a></p>
+    <form action="mailto:your.email@example.com" method="post" enctype="text/plain">
+      <p><b>Send me a message:</b></p>
+      <textarea name="message" placeholder="Type your message here"></textarea><br>
+      <input type="submit" value="Send">
+    </form>
+    </div>
+</body>
+</html>
